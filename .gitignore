@@ -28,6 +28,7 @@ ENV/
 env.bak/
 venv.bak/
 .venv/
+venv
 
 # PyCharm
 .idea/
@@ -155,4 +156,3 @@ static/uploaded/
 # OS generated files
 .Spotlight-V100
 .Trashes
-```
